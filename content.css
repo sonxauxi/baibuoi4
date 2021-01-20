@@ -1,0 +1,80 @@
+.content {
+    padding-top: 48px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    
+
+    
+}
+.doan1 {
+    max-width: 1250px;
+    width: 100%;
+    padding-left: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    
+}
+div.doan2.doan3 {
+    display: flex;
+}
+.doan2 {
+   display: flex;
+    margin-bottom: 50px;
+   overflow: hidden;
+   display: flex;
+   flex-wrap: wrap;
+   margin-right: -15px;
+   margin-left: -15px;
+    
+}
+   
+
+.slide {
+    width: 803.33px;
+    height: 521.98px;
+    box-shadow: 2px rgb(179, 178, 178);
+    position: relative;
+    display: flex;
+    padding:15px;
+  
+}
+
+.slideimg {
+    width: 803.33px;
+    height: 481.98px;
+    border-radius: 4px;
+    filter: drop-shadow(0px 2px 2px rgb(58, 43, 43));
+}
+
+div.anhthu {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 391.65px;
+    height: 106.3px;
+    line-height: 1.5;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    background-color: #fff;
+    margin: 0 0 20px 0;
+}
+.abc {
+    text-transform: uppercase;
+    top: 222px;
+    left: 736px;
+    position: absolute;
+    color: rgb(240, 234, 234);
+    font-size: 35px;
+}
+
+ .ab{
+    text-transform: uppercase;
+    top: 222px;
+    left: 51px;
+    font-size: 35px;
+    position: absolute;
+    color: rgb(233, 215, 215);
+}

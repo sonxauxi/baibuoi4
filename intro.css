@@ -1,0 +1,52 @@
+.svgg {
+    width: 1250px;
+    /* width: 305px; */
+    height: 181px;
+    text-align: center;
+    font-family: 'roboto', sans-serif;
+    padding-left: 60px;
+}
+
+.svgg1 {
+    width: 305px;
+    height: 181px;
+    float: left;
+}
+
+.svggimg {
+    padding-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+.svggimg img {
+    width: 60px;
+    height: 55px;
+}
+.intext {
+    width: 305px;
+    text-align: center;
+}
+
+.intext a {
+    font-size: 16px;
+    margin-top: 15px;
+    color: #464646;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+div.mean a {
+    font-size: 14px;
+    color: #999999;
+    margin: auto;
+    font-style: none;
+    text-decoration: none;
+    margin: 0 30px;
+    margin-top: 10px;
+    width: 220px;
+    
+}
+.mean a{
+    width: 244px;
+    text-align: center;
+}

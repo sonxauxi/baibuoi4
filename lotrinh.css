@@ -1,0 +1,103 @@
+.lotrinhtong {
+    height: 1129.91px;
+    padding-bottom: 5rem;
+    line-height: 1.5;
+    padding: 0 40px;
+    background-color: #e4f2fd;
+    padding-bottom: 60px;
+}
+
+
+.h22 h2{
+    font-family: 'roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem !important;
+    text-transform: uppercase;
+    margin: 0;
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 50px;
+    color: #464646;;
+}
+
+.tonglotrinh {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+
+  
+    
+}
+
+div.Lotrinh1 {
+    width: 416.66px;
+    height: 466.45px;
+    padding: 20px 0!important; 
+    font: 16px 'roboto', sans-serif;
+    justify-content: space-between;
+}
+
+.lotrinh12 {
+    width: 386.66px;
+    height: 416.06px;
+    margin-top: 50px;
+    border-radius: 5px;
+    font-weight: 400;
+    line-height: 1.5;
+    box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.15);
+    background-color: #fdfdfd;
+    margin: 0 15px;
+}
+
+.lotrinh12 a{
+   font-weight: 300;
+}
+.linka {
+    line-height: 1.5; 
+    font-size: 16px;
+    text-decoration: none;
+    color: inherit;
+    background-color: transparent;
+}
+
+.lotrinhimg img {
+    width: 386.66px;
+    height: 231.28px;
+    display: block;
+    margin: auto;
+    border-radius: 4px;
+    background-color: #e4f2fd;
+}
+
+.lotrinh2 {
+    
+    padding: 22.4px;
+}
+
+.tenlotrinh h3 {
+    font-family: 'roboto', sans-serif;
+    font-size: 1.3rem!important;
+    color: #464646;
+    font-weight: 500;
+    text-align: left;
+    margin: 0;
+}
+
+p.dulieulotrinh {
+    font-size: 14px;
+    color: #464646;
+    margin-bottom: 10px;
+    margin: 0 0 10px;
+    display: -webkit-box;/*note*/
+    -webkit-line-clamp: 3;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+p.timelotrinh {
+    font-size: 16px;
+    font-weight: 600;
+    color: #757575;
+}

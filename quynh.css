@@ -1,0 +1,62 @@
+.tieudesphocvien {
+padding: 15px;
+padding-top: 80px;
+}
+
+.tieudesphocvien1{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    color: #464646;
+    margin: 0 0 32px;
+}
+.tieudesphocvien1 i{ 
+    font-size: 25px;
+    color: #464646; border: solid #3f99fa 2px;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    padding-top: 5px;}
+    
+.tieudesphocvien1 h2{ 
+    font-weight: 400;
+}
+
+.SPHVV {
+    width: 1230px;
+    height: 380px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sphocvien1 {
+    padding: 22.4px;
+    width: 341px;}
+.sphocvien img {
+    width: 385.78px;
+    height: 217px;
+border-radius: 4px;}
+    
+.sanpham a {
+    width: 385.78px;
+    text-decoration: none;
+    font: 16px 'roboto', sans-serif;
+    color: #5e5e5e;
+}
+.tensp
+{font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 10px;}
+.khoatotnghiep {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    
+}
