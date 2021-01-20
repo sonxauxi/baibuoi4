@@ -23,7 +23,7 @@ h4 {
     width: 312.5px;
     height: 398px;
 }
-ul.menu {
+ul.menuu {
     list-style: none;
     color : #919294;
     padding-top: 50px;
@@ -41,7 +41,7 @@ ul.mxh {
 .mxh a{
     text-decoration: none;
 }
-.menu a{
+.menuu a{
     text-decoration: none;
     color : #919294;
    
